@@ -1,0 +1,9 @@
+Modificar previamente la consola de windows antes de ejecutar.
+
+ancho: 121
+largo: 36
+
+fuente: consolas
+tamaño: 16
+
+el codigo usa la biblioteca rlutil.h, tenerla en la misma carpeta que del .cpp
